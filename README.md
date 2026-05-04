@@ -23,7 +23,7 @@ My Spotify Display with 3 buttons for controlling three of my favourite songs, s
 
 ---
 
-<img width="1470" height="956" alt="2" src="https://github.com/user-attachments/assets/778f98b3-d6fc-4354-9699-75cc5cd7a419" 
+<img width="1470" height="956" alt="2" src="https://github.com/user-attachments/assets/778f98b3-d6fc-4354-9699-75cc5cd7a419"/>
 
 ---
 
