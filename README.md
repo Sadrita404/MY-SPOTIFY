@@ -82,11 +82,11 @@ My Spotify Display with 3 buttons for controlling three of my favourite songs, s
 | Mechanical keyboard Switches    | For Play,Pause, Repeat Rewind    | 1    | $1.80    | $1.80   |  [Link](https://neomacro.in/products/outemu-lemon-v3-silent)   |
 | Key Caps| For the switches to put on | 1 | $1.05| $1.05 | [Link](https://stackskb.com/store/numpad-keycaps/) |
 | Seeed Studio XIAO ESP32-S3  | Main brain and wifi      | 1    | $9.25    |  $9.25  | [Link](https://robocraze.com/products/seeed-studio-xiao-esp32-s3-development-board-supports-wi-fi-bluetooth-5-0?variant=47775391645920&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvZEcZ_HwwUxnilTVNz_MKr6I&gclid=Cj0KCQjwh-HPBhCIARIsAC0p3cfT63K7x63Dem8TXSh5brIgd7uVP7yRR6PnYubYDZkiwiTssJBasOcaAu79EALw_wcB)   |
-|Total | | |  | | $17.91|
+|Total | | |  | | $18.96|
 |Round Off Total  | | |  | | $25 |
 |TAX (USD) |SHIPPING (USD)|
-|$2.07| $4|
-|Total  | Including the Tax & Shipping| |  | | $23.98 |
+|$2.23| $3.8|
+|Total  | Including the Tax & Shipping| |  | | $24.99 |
 |Round Off Total  | | |  | | $25 |
 
 ---
