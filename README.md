@@ -1,14 +1,14 @@
 | Title | My Spotify |
 | :-- | :---|
 |Author |Sadrita Neogi|
-|Project Tire | 1|
+|Project Tire | 4|
 
 ---
 
 
 ### About
 
-My Spotify Display with 3 buttons for controlling three of my favourite songs, so that I can play it by pressing the button. This is a Starter Project of [Stasis](https://stasis.hackclub.com/dashboard) And I have made some changes to the project like it will also show the weather in the mini display ...
+My Spotify Display with 3 buttons for controlling three of my favourite songs, so that I can play it by pressing the button. And I have made some changes to the project like it will also show the weather in the mini display ...
 
 ## Project Inspiration :-
 
