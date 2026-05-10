@@ -73,6 +73,24 @@ My Spotify Display with 3 buttons for controlling three of my favourite songs, s
 
 
 ---
+
+## Assembly Instructions :
+
+1) First we need to take all the components and arrange it according to the circuit diagram.
+
+2) Then we need to cut wire of desired length for soldering and started soldering the components according to the circuit diagram.
+
+3) After completing the soldering part we need to connect the **Seeed Studio XIAO ESP32-S3** to the PC and Upload the [FIRMWARE](https://github.com/Sadrita404/MY-SPOTIFY/blob/main/FIRMWARE/code_my_spotify.cpp) using the Arduino IDE .
+
+4) Then we will turn on the circuit and check that all the components are working fine .
+
+5) After that we will take the 3d Printed Case and add the components to the Case in their designated spot and Secure the components with some glue .
+
+6) At last we will add the key Caps to the switches and our Project is ready to use...
+
+
+
+---
 | Name | Purpose | Quantity | Price (1 Unit) | Price Total(USD) | Links| 
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 3.7v 800mAh battery| For Standby Power  | 1     | $2.34    | $2.34   | [Link](https://robu.in/product/wly102040-800mah-3-7v-single-cell-rechargeable-lipo-battery)    |
