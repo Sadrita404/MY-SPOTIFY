@@ -1,3 +1,7 @@
+<img width="2940" height="1240" alt="Split Keyboard" src="https://github.com/user-attachments/assets/aed57479-9939-4c59-893d-8e6d0af2d5a0" />
+
+---
+
 | Title | My Spotify |
 | :-- | :---|
 |Author |Sadrita Neogi|
