@@ -5,7 +5,6 @@
 | Title | My Spotify |
 | :-- | :---|
 |Author |Sadrita Neogi|
-|Project Tire | 4|
 
 ---
 
