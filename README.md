@@ -151,7 +151,7 @@ My Spotify Display with 3 buttons for controlling three of my favourite songs, s
 </div>
 
 
-**Youtube Video - [VIDE) LINK](https://youtube.com/shorts/QVzam35eY_g?feature=share)**
+**Youtube Video - [VIDEO LINK -](https://youtube.com/shorts/QVzam35eY_g?feature=share)**
 
 
 https://github.com/user-attachments/assets/91f0ea9a-4478-4347-aad5-054328ad519e
