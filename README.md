@@ -91,6 +91,72 @@ My Spotify Display with 3 buttons for controlling three of my favourite songs, s
 
 6) At last we will add the key Caps to the switches and our Project is ready to use...
 
+---
+### Building 
+
+| | |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/93bb2ad6-a657-4574-8991-9762d739a520" width="100%" /> | <img src="https://github.com/user-attachments/assets/291c422b-31f2-42fc-b036-e8fa4e37d14b" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/77d7d0c8-ec67-46da-a762-a5cbc03f3aa6" width="100%" /> | <img src="https://github.com/user-attachments/assets/1863b202-bb16-4588-a9f8-b8d323680633" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/594f3bb1-289a-40f2-b32c-faf5d9aefa8b" width="100%" /> | <img src="https://github.com/user-attachments/assets/64837631-7b4f-4dfe-a5a3-3b902899ddb7" width="100%" /> |
+
+
+
+<!-- TWO-COLUMN IMAGE FRAME GRID -->
+<div align="center">
+  <h2> Final Look </h2>
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <!-- FRONT SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/19619fe9-91b0-43a3-8a32-dac639760d99" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+        </div>
+      </td>
+      <!-- SPACER FOR GITHUB MOBILE DEGRADATION -->
+      <td width="2%">&nbsp;</td>
+      <!-- BACK SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/9bcd5237-831c-408e-946a-291ee5d4a057" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
+
+
+<!-- TWO-COLUMN IMAGE FRAME GRID -->
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <!-- FRONT SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/42890df3-4532-4008-b990-da0908147f8b" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+        </div>
+      </td>
+      <!-- SPACER FOR GITHUB MOBILE DEGRADATION -->
+      <td width="2%">&nbsp;</td>
+      <!-- BACK SIDE CARD -->
+      <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+        <img src="https://github.com/user-attachments/assets/1af73dbb-42d3-4208-a90e-a5244280a714" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
+
+
+**Youtube Video - [VIDE) LINK](https://youtube.com/shorts/QVzam35eY_g?feature=share)**
+
+
+https://github.com/user-attachments/assets/91f0ea9a-4478-4347-aad5-054328ad519e
+
+
 
 
 ---
